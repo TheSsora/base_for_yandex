@@ -1,6 +1,6 @@
 Authorization v1.022
-EnvirData v1.002
-InterstitialAdv v1.002
+EnvirData v1.003
+InterstitialAdv v1.003
 Leaderboards v1.01
 StickyAdv v1.0
 Storage v1.02
